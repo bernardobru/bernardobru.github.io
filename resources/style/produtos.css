@@ -1,0 +1,28 @@
+* {
+    box-sizing: border-box;
+}
+#produtos {
+    margin: 4%;
+}
+.cesta {
+    padding: 0 6px;
+    float: left;
+    width: 30%;
+}
+.galeria {
+    border: 1px solid #ccc;
+}
+.galeria:hover {
+    border: 1px solid #000000;
+}
+.galeria img {
+    width: 100%;
+    height: auto;
+}
+.desc {
+    padding: 15px;
+    text-align: center;
+}
+h3 {
+    font-size: 2em;
+}
